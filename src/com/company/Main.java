@@ -8,5 +8,8 @@ public class Main {
         myPhone1.powerOn();
         myPhone1.callPhone("123456");
         myPhone1.answer();
+
+
+        //Test comment
     }
 }
