@@ -9,8 +9,5 @@ public class Main {
         myPhone1.callPhone("123456");
         myPhone1.answer();
 
-
-
-
     }
 }
